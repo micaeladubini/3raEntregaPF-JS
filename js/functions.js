@@ -27,31 +27,31 @@ window.onload = function () {
             imagen: './img/vino4.jpg'
         },
         {
-            id: 4,
+            id: 5,
             nombre: 'Bubble rose',
             precio: 52,
             imagen: './img/vino5.jpg'
         },
         {
-            id: 5,
+            id: 6,
             nombre: 'Bubble white',
             precio: 30,
             imagen: './img/vino6.jpg'
         },
         {
-            id: 6,
+            id: 7,
             nombre: 'Pinot Noir 2014',
             precio: 36,
             imagen: './img/vino7.jpg'
         },
         {
-            id: 7,
+            id: 8,
             nombre: 'Pinot Noir 2020',
             precio: 50,
             imagen: './img/vino8.jpg'
         },
         {
-            id: 8,
+            id: 9,
             nombre: 'Pinot Noir 2014',
             precio: 60,
             imagen: './img/vino9.jpg'
